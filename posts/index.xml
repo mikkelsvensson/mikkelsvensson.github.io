@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mikkel Svensson</title>
-    <link>https://mikkelsvensson.net/</link>
-    <description>Recent content on Mikkel Svensson</description>
+    <title>Posts on Mikkel Svensson</title>
+    <link>https://mikkelsvensson.net/posts/</link>
+    <description>Recent content in Posts on Mikkel Svensson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Oct 2021 20:19:47 +0200</lastBuildDate><atom:link href="https://mikkelsvensson.net/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About me</title>
-      <link>https://mikkelsvensson.net/about_me/</link>
-      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikkelsvensson.net/about_me/</guid>
-      <description>Education #2021- #University college Lillebælt #Information Technology
-Odense, Denmark
-2019-2021 #University of Southern Denmark #Machanical Engineering
-Odense, Denmark
-2016-2019 #HANSENBERG Technical High School #Mathematics and information technology
-Kolding, Denmark</description>
-    </item>
-    
+    <lastBuildDate>Sat, 16 Oct 2021 20:19:47 +0200</lastBuildDate><atom:link href="https://mikkelsvensson.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is my first post</title>
       <link>https://mikkelsvensson.net/posts/first_post/</link>

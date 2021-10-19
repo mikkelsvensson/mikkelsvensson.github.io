@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mikkelsvensson.net/sitemap.xml
